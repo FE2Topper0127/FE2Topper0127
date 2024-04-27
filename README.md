@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2800&pause=2000&color=e50914&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+FE2Topper+and+Welcome+to+my+Profile👋" align="middle" alt="Hey, I'm FE2Topper0127 and Welcome to my Profile👋 animated typed out" width="100%"/>
     
 
-<h3 align="center" href="https://FE2Topper0127.github.io/portfolio" style="color: red; font-weight: 900; font-size: 33px;">Python Developer</h3>
+<h3 align="center" href="https://FE2Topper0127.github.io/portfolio" style="color: red; font-weight: 900; font-size: 33px;">Front-End Developer</h3>
 <br/><br/>
 
 
@@ -9,9 +9,6 @@
 <h2 font-weight="bold">𝐒ervices 𝐒𝐞𝐭</h2>
 <table>
   <tr>
-    <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=py" width="100" />
-    </td>
     <td align="center" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" alt="React" />
     </td>
@@ -23,6 +20,9 @@
     </td>
     <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=angular" width="100" alt="Angular" />
+    </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=py" width="100" />
     </td>
     <td align="center"  width="90">
         <img src="https://skillicons.dev/icons?i=html" width="100" alt="HTML5" />
