@@ -1,6 +1,3 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2800&pause=2000&color=e50914&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+FE2Topper+and+Welcome+to+my+Profile👋" align="middle" alt="Hey, I'm FE2Topper0127 and Welcome to my Profile👋 animated typed out" width="100%"/>
-    
-
 <h3 align="center" href="https://FE2Topper0127.github.io/portfolio" style="color: red; font-weight: 900; font-size: 33px;">Software Engineer</h3>
 <br/><br/>
 
